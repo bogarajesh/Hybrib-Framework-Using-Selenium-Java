@@ -11,20 +11,20 @@ public class LoginPage {
         this.driver = driver;
     }
 
-    By Username = By.id("user-name");
-    By Password = By.id("password");
-    By LoginBtn = By.id("login-button");
+    By username = By.id("user-name");
+    By password = By.id("password");
+    By loginBtn = By.id("login-button");
 
     public void enterusername(String user){
-        driver.findElement(Username).sendKeys(user);
+        driver.findElement(username).sendKeys(user);
     }
 
     public void enterpassword(String pass){
-        driver.findElement(Password).sendKeys(pass);
+        driver.findElement(password).sendKeys(pass);
     }
 
     public void clickloginbtn(){
-        driver.findElement(LoginBtn).click();
+        driver.findElement(loginBtn).click();
     }
 
     public void login(String user, String pass){
