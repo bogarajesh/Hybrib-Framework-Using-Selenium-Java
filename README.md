@@ -2,8 +2,6 @@
 
 A Hybrid Test Automation Framework built using **Java**, **Selenium WebDriver**, **TestNG**, and **Maven**. This project automates the login functionality of the SauceDemo application using the Page Object Model (POM) design pattern.
 
----
-
 ## 📖 Project Overview
 
 This project is part of my Selenium Automation learning journey and demonstrates a clean and reusable test automation framework.
@@ -18,14 +16,10 @@ This project is part of my Selenium Automation learning journey and demonstrates
 - Reusable Driver Factory
 - Base Test Class for Test Setup
 
----
-
 ## 🌐 Application Under Test
 
 - **Application:** SauceDemo
 - **URL:** https://www.saucedemo.com/
-
----
 
 ## 🛠️ Tech Stack
 
@@ -34,8 +28,6 @@ This project is part of my Selenium Automation learning journey and demonstrates
 - TestNG
 - Maven
 - WebDriverManager
-
----
 
 ## 📂 Project Structure
 
@@ -67,8 +59,6 @@ Hybrid-Framework-Using-Selenium-Java
 └── README.md
 ```
 
----
-
 ## ✅ Test Scenario
 
 **Login Test**
@@ -79,8 +69,6 @@ Hybrid-Framework-Using-Selenium-Java
 - Enter a valid password
 - Click the Login button
 - Verify successful login
-
----
 
 ## ▶️ How to Run
 
@@ -110,8 +98,6 @@ Or execute using Maven:
 mvn test
 ```
 
----
-
 ## 🚀 Future Enhancements
 
 - Data-Driven Testing
@@ -123,7 +109,11 @@ mvn test
 - Selenium Grid
 - Jenkins CI/CD Integration
 - GitHub Actions
+  
+## 🤝 Connect with Me
 
----
+- LinkedIn: https://www.linkedin.com/in/rajeshboga/
+- GitHub: https://github.com/bogarajesh
 
-⭐ If you found this project helpful, consider giving it a Star.
+  
+⭐ If you find this repository helpful, consider giving it a **Star**.
