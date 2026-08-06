@@ -126,12 +126,4 @@ mvn test
 
 ---
 
-## 👨‍💻 Author
-
-**Rajesh Boga**
-
-QA Engineer | Java | Selenium WebDriver | TestNG | Maven
-
----
-
 ⭐ If you found this project helpful, consider giving it a Star.
